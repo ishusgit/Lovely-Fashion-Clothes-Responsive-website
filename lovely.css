@@ -2949,6 +2949,12 @@ input::placeholder{
         max-width:95%;
         padding:0px 0px 50px;
     }
+    .womens-cards .womens-card-1{
+        max-width:550px;
+    }
+    .womens-cards .womens-card-2{
+        max-width:550px;
+    }
     .summer-main{
         display:flex;
         flex-flow:row nowrap;
@@ -3016,8 +3022,7 @@ input::placeholder{
     }
     .signinup-cards .signup-card{
         width:300px;
-        margin-top:70px;
-        margin-bottom:100px;
+        margin-top:30px;
     }
 }
 /**large device**/
